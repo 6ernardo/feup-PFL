@@ -1,5 +1,3 @@
 # feup-PFL
 
-Projects from the Functional and Logic Programing curricular unit.
-
-Made in colaboration with [@ZeSousa93](https://github.com/ZeSousa93)
+Repository containing Project 1 and Project 2 from the Functional and Logic Programing course unit at FEUP.
